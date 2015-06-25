@@ -1,0 +1,1 @@
+Project template using Spring boot + security and JSF as presentation
